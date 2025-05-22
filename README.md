@@ -1,48 +1,23 @@
-# OOP_S25
-I am graduating post-secondary school next year.
+# Flashcard Quiz App
 
----
+A simple JavaFX application that displays flashcards for studying. Users can cycle through flashcards and reveal answers with a button.
 
-# Java Coding Projects
+## Features
 
-Welcome to my Java coding repository! 👋  
-This repository contains projects, assignments, and experiments I’ve created as part of my **Coding in Java** class.
+- JavaFX GUI with basic controls
+- Encapsulated `Flashcard` and `FlashcardSet` classes
+- Inheritance via `CardLoader` interface
+- Hardcoded flashcard loader (polymorphism-ready for file loader)
+- Clean, modular, and readable code
 
-## 📚 About This Repository
+## How to Run
 
-This repo is meant to:
+1. Clone the repo:
 
-- Document my journey learning Java.
-- Showcase Java programs I've written.
-- Track my progress and understanding of core concepts.
+git clone https://github.com/LawfulPoet24/flashcard-app.git
 
-## 🛠️ Topics Covered
+2. Open in IntelliJ IDEA.
 
-- Variables & Data Types
-- Control Flow (if/else, loops)
-- Methods and Parameters
-- Object-Oriented Programming (OOP)
-- Inheritance and Polymorphism
-- File I/O
-- Exception Handling
-- GUI Development (if applicable)
-
-## 📁 Project Structure
-
-Each project will have its own folder with its source code and a README explaining the project.
-
-## ✅ Current Projects
-
-- `HelloWorld.java` – My first Java program
-- `Calculator.java` – A simple command-line calculator
-- `StudentGrades.java` – Manage student records and grades
-
-## 🚀 How to Run
-
-1. Make sure you have [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html) installed.
-2. Compile the `.java` file using:
-
-```bash
-javac FileName.java
+3. Run `FlashcardApp.java`.
 
 
