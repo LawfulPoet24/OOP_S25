@@ -12,7 +12,7 @@ A simple JavaFX application that displays flashcards for studying. Users can cyc
 
 ## How to Run
 
-1. Clone the repo:
+1. Clone the repo.
 
 2. Open in IntelliJ IDEA.
 
