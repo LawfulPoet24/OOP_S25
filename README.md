@@ -14,8 +14,6 @@ A simple JavaFX application that displays flashcards for studying. Users can cyc
 
 1. Clone the repo:
 
-git clone https://github.com/LawfulPoet24/flashcard-app.git
-
 2. Open in IntelliJ IDEA.
 
 3. Run `FlashcardApp.java`.
